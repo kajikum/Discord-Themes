@@ -1,0 +1,29 @@
+{
+  "name": "discord-themes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zak1ck/Discord-Themes.git"
+  },
+  "keywords": [
+    "discord",
+    "theme"
+  ],
+  "author": "Kajiku Moreau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zak1ck/Discord-Themes/issues"
+  },
+  "homepage": "https://github.com/zak1ck/Discord-Themes#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.4",
+    "gulp-sass": "^3.1.0"
+  }
+}
